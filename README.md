@@ -1,5 +1,5 @@
 
-# EDMM YAML Specification
+# EDMM in YAML Specification
 
 ## Deployment Model definition
 
